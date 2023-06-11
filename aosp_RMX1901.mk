@@ -12,12 +12,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 TARGET_BOOT_ANIMATION_RES := 1080
-TARGET_FACE_UNLOCK_SUPPORTED := true
 TARGET_SUPPORTS_QUICK_TAP := true
-EXTRA_UDFPS_ANIMATIONS := true
 TARGET_HAS_UDFPS := true
 TARGET_ENABLE_BLUR := true
-TARGET_EXCLUDES_AUDIOFX := true
 
 
 # Inherit from RMX1901 device
