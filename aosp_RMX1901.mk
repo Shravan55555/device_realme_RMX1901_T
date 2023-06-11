@@ -15,7 +15,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_SUPPORTS_QUICK_TAP := true
 TARGET_HAS_UDFPS := true
 TARGET_ENABLE_BLUR := true
-
+TARGET_FACE_UNLOCK_SUPPORTED := true
 
 # Inherit from RMX1901 device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
