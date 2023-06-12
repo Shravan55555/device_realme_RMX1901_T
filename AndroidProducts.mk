@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_RMX1901.mk
+    $(LOCAL_DIR)/legion_RMX1901.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_RMX1901-userdebug \
-    cherish_RMX1901-eng
+    legion_RMX1901-userdebug \
+    legion_RMX1901-eng
 
