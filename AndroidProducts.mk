@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/legion_RMX1901.mk
+    $(LOCAL_DIR)/xtended_RMX1901.mk
 
 COMMON_LUNCH_CHOICES := \
-    legion_RMX1901-userdebug \
-    legion_RMX1901-eng
+    xtended_RMX1901-userdebug \
+    xtended_RMX1901-eng
 
