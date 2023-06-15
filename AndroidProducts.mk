@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_RMX1901.mk
+    $(LOCAL_DIR)/lineage_RMX1901.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_RMX1901-userdebug \
-    arrow_RMX1901-eng
+    lineage_RMX1901-userdebug \
+    lineage_RMX1901-eng
 
